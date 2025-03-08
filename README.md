@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 📊  Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavolh1&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavolh01&layout=compact&theme=dark)  
 
 ## 🔧 Currently Working On  
 🚀 Exploring **LLMs (Large Language Models)** and expanding my skills in AI & NLP.  
